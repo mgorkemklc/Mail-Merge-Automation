@@ -49,7 +49,7 @@ Use this as your pdfFileId
 
 - Replace it in the code:
 
-```javascript
+javascript
 const pdfFileId = 'YOUR_PDF_FILE_ID_HERE';
 
 ### 3. Add Script to Your Sheet
