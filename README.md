@@ -103,8 +103,7 @@ Add a config.js file to store your private values
 Add config.js to .gitignore
 
 🙌 Author
-Muhammed Görkem Kılıç
-LinkedIn – kilicmuhammedgorkem@gmail.com
+Muhammed Görkem Kılıç – https://www.linkedin.com/in/mgorkemklc/ – kilicmuhammedgorkem@gmail.com
 
 🧠 License
 This project is released under the MIT License.
