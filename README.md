@@ -46,6 +46,7 @@ Prepare your Google Sheet like this:
 https://drive.google.com/file/d/IDISHERE/view
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Use this as your pdfFileId
+
 - Replace it in the code:
 
 ```javascript
@@ -58,7 +59,7 @@ Click Extensions > Apps Script
 
 Paste the entire script into Code.gs
 
-4. Set a Daily Trigger
+### 4. Set a Daily Trigger
 In the Apps Script Editor, click the clock icon 🕒 ("Triggers")
 
 Click “+ Add Trigger”
@@ -73,7 +74,7 @@ Type: Day timer
 
 Time: 09:00 – 10:00 AM (to match 08:30 Switzerland time)
 
-5. Run It Once
+### 5. Run It Once
 Click the ▶️ Run button to authorize and test it once.
 Make sure everything works as expected.
 
